@@ -3,10 +3,10 @@
    <img src="https://user-images.githubusercontent.com/46109133/123561796-e99b8000-d780-11eb-8d58-a46e9d82a2dd.png" alt="dt money" width="200"/>
 </p>
 <p align="center">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/Sthaynny/ig-news?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/Sthaynny/ig-news?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/Sthaynny/ig-news?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/Sthaynny/ig-news?color=%235965E0">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/Sthaynny/test_widget?color=%235963C5" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/Sthaynny/test_widget?color=%235761C3" />
+  <img alt="License" src="https://img.shields.io/github/license/Sthaynny/test_widget?color=%235E69D7" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/Sthaynny/test_widget?color=%235965E0">
 </p>
 
 <h2 align="center">Test widgets</h2>
@@ -34,10 +34,6 @@
 
 # :camera: Screenshots
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/46109133/126879080-eccb0aca-f2c2-4815-8d4e-029348a67f09.png" width="250px">
-   <img src="https://user-images.githubusercontent.com/46109133/126879081-3b6361a9-57f5-4975-9a14-f4c53eabea4a.png" width="250px">
-   <img src="https://user-images.githubusercontent.com/46109133/126879086-91870d91-f7f6-47b5-a96d-b286d9339e97.png" width="250px">
-   <img src="https://user-images.githubusercontent.com/46109133/126879087-a99e3c29-c0a6-4d73-9fa6-5efd62453b69.png" width="250px">
 </div>
 
    
@@ -51,7 +47,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/Sthaynny/pay_flow.git && cd pay_flow
+$ git clone https://github.com/Sthaynny/test_widget.git && cd test_widget
 
 # Install Dependencies
 $ flutter pub get
@@ -65,7 +61,7 @@ Go to device or web to see the application running.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/Sthaynny/pay_flow/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/Sthaynny/test_widget/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 # :sparkles: Contributing
 
