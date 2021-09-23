@@ -13,7 +13,7 @@
 
 <hr />
 
-<p align="center"> This app was made for learn and practice fo the framework    
+<p align="center"> This app was made for learn and practice of the framework    
 </p>
 
 <div align="center">
